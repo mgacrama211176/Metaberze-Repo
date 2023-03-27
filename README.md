@@ -16,4 +16,8 @@ This project is used by the following companies:
 
 
 
+<<<<<<< HEAD
 Hello Team MJC
+=======
+Helasdasdasdawdasdawdrze 
+>>>>>>> 8c6590dd24a1c30be1de3f90dafafc238dbd25bf
