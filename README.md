@@ -16,4 +16,4 @@ This project is used by the following companies:
 
 
 
-Hello Team Meteberze 
+Hello Team MJC
